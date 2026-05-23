@@ -1,4 +1,4 @@
-# Tsuikyu_Usasaki_Stems
+# Tsuikyu_Mafuyu_Stems
 
 Samples for Remix
 
@@ -6,10 +6,10 @@ Samples for Remix
 
 ## Track Information
 
-- **Title:** Usasaki
+- **Title:** Mafuyu
 - **Producer:** Tsuikyu  
-- **Key:** A minor  
-- **BPM:** 113 
+- **Key:** C major  
+- **BPM:** 135 
 - **DAW:** Image-Line – FL Studio  
 - **Vocal:** Dreamtonics – Synthesizer V Studio Pro 2  
   - Voicebank: INTERNET Inc. – Otomachi Una 2  
@@ -18,7 +18,8 @@ Samples for Remix
 
 ## Copyright
 
-**Copyright holder:** Kameyama ([@mukumi](https://mukumi.booth.pm))
+**Copyright holder:** Arisaka Mito ([@Mito_Arisaka
+](https://www.arisakamito.com/))
 
 本楽曲は **Tsuikyu による二次創作物** であり、  
-著作権は **「かめ山（もち山金魚）」** に帰属します。
+著作権は **「有坂みと（ぷらすわん）」** に帰属します。
